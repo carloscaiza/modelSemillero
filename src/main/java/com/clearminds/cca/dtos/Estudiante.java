@@ -29,8 +29,7 @@ public class Estudiante {
 		this.nombre = nombre;
 		this.apellido = apellido;
 		this.edad = edad;
-	}
-
+	}	
 
 	public String getNombre() {
 		return nombre;
@@ -64,9 +63,7 @@ public class Estudiante {
 		return "Estudiante [nombre=" + nombre + ", apellido=" + apellido + ", numero=" + numero + ", edad=" + edad
 				+ "]";
 	}
-
-
-	
+		
 	
 
 }
